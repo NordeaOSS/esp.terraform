@@ -1,0 +1,2 @@
+### List of python packages required by collection
+terrasnek==0.1.3
